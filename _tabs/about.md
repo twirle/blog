@@ -9,4 +9,4 @@ order: 1
 
 hi, this is a blog to put up some posts on side projects that I'm working on, or ramblings about games/tech. 
 
-posts are sporadic and not really meant for a showing a nice portfolio or [tatemae](www.google.com/search?q=tatemae), LinkedIn has enough for that.
+posts are sporadic and not really meant for a showing a nice portfolio or [tatemae](https://www.google.com/search?q=tatemae), LinkedIn has enough for that.
