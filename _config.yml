@@ -16,7 +16,7 @@ timezone: Asia/Singapore
 
 title: twirle
 
-tagline: whatever will be, will be # it will display as the sub-title
+# tagline: whatever will be, will be # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   a post a year keeps the code running another decade
