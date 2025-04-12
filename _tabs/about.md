@@ -13,7 +13,7 @@ fresh cs grad from SIT-UoG and this is where I may put up some posts on the side
 
 ### hobbies
 
-I go around on chill rides around my neighbourhood on my fixed gear bike, looking to improve on my Japanese (especially on listening at local conversation speed) and working on picking up Indonesian. I also hang out in FFXIV, and put aside some time each day to get better at solving leetcode problems.
+I go around on chill rides around my neighbourhood on my fixed gear bike. I also hang out in FFXIV, and put aside some time each day to get better at solving leetcode problems.
 
 I (used to) play some rts quite a bit like starcraft 2, age of empires 4, dota.
 
