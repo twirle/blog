@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Naoki Yoshida on AI in Game Development"
-# date: 2024-04-12
+date: 2024-04-14
 category: "news"
 published: false
 tags:
