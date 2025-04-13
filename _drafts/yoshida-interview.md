@@ -3,29 +3,21 @@ layout: post
 title: "Interview with Naoki Yoshida on AI in Game Development"
 # date: 2024-04-12
 category: "news"
-# published: false
+published: false
 tags:
   - interview
   - AI
 ---
 
-## total blog
+Couple months back, I came across an interview on エンジニア type of Yoshida having a discussion with an AI researcher from the University of Tokyo, Shota Imai, and sharing his (corporately limited) views on AI regarding its current usage, perception and ethics within Square Enix.
 
----
-
-### very amaze
-
-Couple months back, I came across an interview on エンジニア type of Yoshida having a discussion with a Professor from the University of Tokyo, Shota Imai, and sharing his (corporately limited) views on AI regarding its current usage, perception and ethics within Square Enix.
-
-Usually, I would just throw this to a translator to skim through this quickly, but this being Yoshida he always chooses his words very carefully. Using Firefox translator or maybe even an LLM without research/references might miss out on some of the small nuances. So I've taken the time to go t
-
-Hoping to share this between friends to better educate them the current ethical situation of using LLMs, and hoping that I see less fake Ghibli garbage on my social media feed.
+I play Final Fantasy XIV respect Yoshida for what he has achieved in the game industry, and was interested on his thoughts on AI while also keeping abreast of the usage of AI in Japanese industries so far.
 
 ### Introduction
 
-A quick intro to Naoki Yoshida. He's the Producer and Director of the now renowned massively multiplayer online role playing game (MMORPG) Final Fantasy XIV at Square Enix. A little over a decade ago in 2011 or so, he was working on Dragon Quest projects, but had to take over the reins of a failing FFXIV that was causing Square Enix a financial disaster. His team somehow managed to continue provide bandaid patches to the original 1.0 to appease the surviving player base, while rebuilding a brand new version 2.0 in the background. The original 1.0 version of the game then ceased with an in-game calamity event with hordes of monsters flooding the towns. The servers were shutdown with this [cutscene](https://www.youtube.com/watch?v=1xOOFCltZuc) going up on Youtube right after. The rebooted 2.0 launched 10 months later in Aug 2013 and has been doing very well since.
+A quick intro to Naoki Yoshida. He's the Producer and Director of the now renowned massively multiplayer online role playing game (MMORPG) Final Fantasy XIV at Square Enix. A little over a decade ago in 2011 or so, he was working on Dragon Quest projects, but had to take over the reins of a failing FFXIV that was causing Square Enix a financial disaster. His team somehow managed to continue provide bandaid patches to the original 1.0 to appease the surviving player base, while rebuilding a brand new version 2.0 in the background. The original 1.0 version of the game then ceased operation with an in-game calamity event with hordes of monsters flooding the towns. The servers were shutdown with this [cutscene](https://www.youtube.com/watch?v=1xOOFCltZuc) going up on Youtube right after. The rebooted 2.0 launched 10 months later in Aug 2013 and has been doing very well since.
 
-The other guy somehow happens to also be a decently experienced player of FFXIV, with 3000 hours in 3 and a half years and has cleared several Ultimates.
+The researcher who is doing the interview somehow happens to also be a decently experienced player of FFXIV, with 3000 hours over 3 and a half years and has cleared several Ultimates (hardest content in the game).
 
 ### The Interview
 
@@ -69,3 +61,7 @@ In other words, even if there is a 'bug', or an event that that is unexpected ba
 Since there's a possiblity that this scenario was intentionally created by the game designer, the final decision can only be made by the game designer. Of course, in this case, in the written specification it does state that 'This skill goes through invincibility.' However, expecting AI to read through those specification documents and then making a call on whether it's a bug in the implementation - that's still not quite feasible right now.
 
 **That's true, it seems difficult for AI to make judgements based on human common sense or to decide on the conventional way of clearing a game.**
+
+Regarding the mechanic solution you mentioned earlier, we of course, create a solution patterns in advance, and adjust accordingly ot those patterns. However, as mentioned earlier, the trail and error and the imaginative power of the players are truly amazing.
+
+The enjoyment of the game isn't just all about playing the game with just that one 'intended solution' by the developers, and that players execute exactly as follows. Instead, when players use their creativity to push the boundaries and overcome the challenge, they feel a sense of achievement and discovery, emotions and fulfilment.
