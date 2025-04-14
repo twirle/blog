@@ -36,7 +36,7 @@ Also there's still an atmosphere of hostility towards AI in the entertainment in
 
 Especially from last year, where there was a movement of Japanese voice actors and Hollywood actors coming together to [campaign against](https://www.youtube.com/watch?v=Mo4clO_X2N4) having their voices being ingested by AI and then cloned. In the current situation, if anyone were to go around saying 'We're using AI', they would quickly be mobbed on the internet. This is especially so because AI is such a vague term encompassing so many things and people still have different understandings about it. I think that this is something that can't be helped at the moment.
 
-**I can imagine.. The usage of AI in the entertainment industry is difficult to understand, and it tends to become controversial with concerns like "Won't it take away jobs?", or "Won't it infringe copyright?".**
+**I can imagine... The usage of AI in the entertainment industry is difficult to understand, and it tends to become controversial with concerns like "Won't it take away jobs?", or "Won't it infringe copyright?".**
 
 On one hand, if we talk about the definition of AI, programmers, and game developers who have been writing code for years would think, "Writing scripts, providing some input parameters and having it output something, isn't that already a simple AI?".
 
