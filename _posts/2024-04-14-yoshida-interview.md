@@ -12,10 +12,8 @@ Couple weeks back, I came across an [interview on エンジニア type](https://
 
 As a Final Fantasy XIV player, I respect Yoshida for his achievements in the game industry and his activeness in community interactions. I was interested on his thoughts on AI, while at the same time keeping abreast of the current uptake and usage of AI in the Japanese game development industry.
 
-{% capture images %}
-{{site.url}}/assets/res/2024-04-14-yoshida-interview/twinshot.jpg
-{% endcapture %}
-{% include gallery images=images caption='Shota Imai (left) and Naoki Yoshida (right)' %}
+{% assign image = '/assets/res/2024-04-14-yoshida-interview/twinshot.jpg' %}
+{% include gallery.html images=image caption='Shota Imai (left) and Naoki Yoshida (right)' %}
 
 ### Introduction
 

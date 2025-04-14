@@ -1,0 +1,19 @@
+{% assign images = include.images | split:" " %}
+{% assign caption = include.caption %}
+{% assign cols = include.cols | default: 1 %}
+
+{% case cols %}
+  {% when '1' %}{% assign class = "" %}
+  {% when '2' %}{% assign class = "half" %}
+  {% when '3' %}{% assign class = "third" %}
+  {% else %}{% assign class = "" %}
+{% endcase %}
+
+<figure class="{{ class }}">
+  {% for image in images %}
+    <a href="{{ image }}"><img src="{{ image }}" alt="{{ caption }}"></a>
+  {% endfor %}
+  {% if caption %}
+    <figcaption>{{ caption }}</figcaption>
+  {% endif %}
+</figure>
