@@ -7,12 +7,12 @@ tags:
   - interview
   - AI
 ---
-
 Couple weeks back, I came across an [interview on エンジニア type](https://type.jp/et/feature/27674/) of Yoshida having a discussion with an AI researcher from the University of Tokyo, Shota Imai, and sharing his (corporately limited) views on AI regarding its current usage, perception and ethics within Square Enix.
 
 As a Final Fantasy XIV player, I respect Yoshida for his achievements in the game industry and his activeness in community interactions. I was interested on his thoughts on AI, while at the same time keeping abreast of the current uptake and usage of AI in the Japanese game development industry.
 
-[Shota Imai (left) and Naoki Yoshida (right)](/assets/res/2024-04-14-yoshida-interview/twinshot.jpg)
+[Shota Imai (left) and Naoki Yoshida (right)]({{ site.url }}/assets/res/2024-04-14-yoshida-interview/twinshot.jpg)
+
 
 ### Introduction
 
