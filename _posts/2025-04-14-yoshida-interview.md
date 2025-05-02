@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Interview with Naoki Yoshida on AI in Game Development"
+title: "Translated Interview with Naoki Yoshida on AI in Game Development"
 date: 2025-04-14
 category: "news"
+description: Interview with Square Enix's Head of Creative Business Unit 3.
 tags:
   - interview
   - AI
@@ -13,7 +14,7 @@ Couple weeks back, I came across an [interview on エンジニア type](https://
 As a Final Fantasy XIV player, I respect Yoshida for his achievements in the game industry and his activeness in community interactions. I was interested on his thoughts on AI, while at the same time keeping abreast of the current uptake and usage of AI in the Japanese game development industry.
 
 {% capture images %}
-{{site.url}}/blog/assets/res/2024-04-14-yoshida-interview/twinshot.jpg
+{{site.url}}/blog/assets/res/2025-04-14-yoshida-interview/twinshot.jpg
 {% endcapture %}
 {% include gallery.html images=images caption='Shota Imai (left) and Naoki Yoshida (right)' %}
 
