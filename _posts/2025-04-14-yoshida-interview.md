@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Naoki Yoshida on AI in Game Development"
-date: 2024-04-14
+date: 2025-04-14
 category: "news"
 tags:
   - interview
@@ -21,7 +21,7 @@ As a Final Fantasy XIV player, I respect Yoshida for his achievements in the gam
 
 A quick intro to Naoki Yoshida. He's the Producer and Director of the now renowned massively multiplayer online role playing game (MMORPG) Final Fantasy XIV at Square Enix. A little over a decade ago in 2011 or so, he was working on Dragon Quest projects, but had to take over the reins of a failing FFXIV that was causing Square Enix a financial disaster. His team somehow managed to continue provide bandaid patches to the original 1.0 to appease the surviving player base, while rebuilding a brand new version 2.0 in the background. The original 1.0 version of the game then ceased operation with an in-game calamity event that ties to the lore of the story. The servers were shutdown with this [cutscene](https://www.youtube.com/watch?v=1xOOFCltZuc) going up on Youtube right after. The rebooted 2.0 launched 10 months later in Aug 2013 and has been doing very well since, earning [several awards](https://na.finalfantasyxiv.com/winning/), including the Game Awards Best Community award in 2021 and 2022.
 
-The researcher who is doing the interview somehow happens to also be a decently experienced player of FFXIV, with 3000 hours over 3 and a half years and has cleared several Ultimates (hardest content in the game).
+The researcher doing the interview somehow happens to also be a decently experienced player of FFXIV, with 3000 hours over 3 and a half years, and has cleared several Ultimates (hardest content in the game when they were relevant).
 
 ### The Interview
 
@@ -37,7 +37,7 @@ Also there's still an atmosphere of hostility towards AI in the entertainment in
 
 **Hostility towards AI?**
 
-Especially from last year, where there was a movement of Japanese voice actors and Hollywood actors coming together to [campaign against](https://www.youtube.com/watch?v=Mo4clO_X2N4) having their voices being ingested by AI and then cloned. In the current situation, if anyone were to go around saying 'We're using AI', they would quickly be mobbed on the internet. This is especially so because AI is such a vague term encompassing so many things and people still have different understandings about it. I think that this is something that can't be helped at the moment.
+Especially from last year, where there was a movement of [Japanese voice actors](https://www.youtube.com/watch?v=Mo4clO_X2N4) and [Hollywood actors](https://youtu.be/OEeGOFBL23c?si=63bnUXpAF9NdXjPW&t=98) coming together to campaign against having their voices being ingested by AI and then cloned. In the current situation, if anyone were to go around saying 'We're using AI', they would quickly be mobbed on the internet. This is especially so because AI is such a vague term encompassing so many things and people still have different understandings about it. I think that this is something that can't be helped at the moment.
 
 **I can imagine... The usage of AI in the entertainment industry is difficult to understand, and it tends to become controversial with concerns like "Won't it take away jobs?", or "Won't it infringe copyright?".**
 
@@ -65,8 +65,8 @@ Since there's a possiblity that this scenario was intentionally created by the g
 
 **That's true, it seems difficult for AI to make judgements based on human common sense or to decide on the conventional way of clearing a game.**
 
-Regarding solving raid mechanics from before, we of course, create solution patterns in advance, and adjust accordingly to those patterns. However, I as mentioned earlier, the trail and error and the imagination of players are truly amazing.
+Regarding solving raid mechanics from before, we of course, create solution patterns in advance, and adjust accordingly to those patterns. However, I as mentioned earlier, the imaginative ability of players to trial and error different possible strategies are truly amazing.
 
-The enjoyment of the game isn't just all about playing the game with just that one 'intended solution' set by the developers, and that players execute exactly as follows. Instead, when players use their creativity to push the boundaries and overcome the challenge, they feel a sense of achievement and discovery, emotions and fulfilment.
+The enjoyment of the game isn't just all about playing the game with just that one 'intended solution' set by the developers, and that players are to execute exactly as follows. Instead, when players use their creativity to push the boundaries and overcome the challenge, they feel a sense of achievement and discovery, emotions and fulfilment.
 
 _to be continued another time_
