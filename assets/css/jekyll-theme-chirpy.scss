@@ -2,9 +2,30 @@
 ---
 
 @use 'main
-{%- if jekyll.environment == ' production ' -%}
+{%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
 ';
 
 /* append your custom style below */
+
+figure.gallery figcaption {
+  font-size: 0.95rem;
+  color: var(--text-muted-color, #666);
+  margin-top: 0.5rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+figure.gallery {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+figure.gallery img {
+  display: inline-block;
+  max-width: 90%;
+  height: auto;
+  margin: 0 auto;
+  transition: all 0.35s ease-in-out;
+}
