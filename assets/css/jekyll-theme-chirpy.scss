@@ -2,15 +2,15 @@
 ---
 
 @use 'main
-{%- if jekyll.environment == ' production ' -%}
+{%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
 ';
 
 /* append your custom style below */
-figure {
-  text-align: center;
-}
+// figure {
+//   text-align: center;
+// }
 
 // figure img {
 //   display: inline-block;
