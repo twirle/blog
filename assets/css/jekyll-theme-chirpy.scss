@@ -8,30 +8,20 @@
 ';
 
 /* append your custom style below */
-// figure {
-//   text-align: center;
-// }
+figure.gallery {
+  text-align: center;
+  margin: 2rem auto;
+}
 
-// figure img {
-//   display: inline-block;
-// }
-
-img {
+figure.gallery img {
+  display: inline-block;
   max-width: 90%;
-  /* height: auto; */
-  margin: auto;
+  height: auto;
+  margin: 0 auto;
   transition: all 0.35s ease-in-out;
 }
 
-figure.gallery {
-  text-align: center;
-}
-
-// figure.gallery img {
-//   display: inline-block;
-// }
-
-figcaption {
+figure.gallery figcaption {
   font-size: 0.95rem;
   color: var(--text-muted-color, #666);
   margin-top: 0.5rem;
