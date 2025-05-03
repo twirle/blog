@@ -9,7 +9,7 @@
   {% else %}{% assign class = "" %}
 {% endcase %}
 
-<figure class="{{ class }}">
+<figure class="gallery {{ class }}">
   {% for image in images %}
     <a href="{{ image }}"><img src="{{ image }}" alt="{{ caption }}"></a>
   {% endfor %}
